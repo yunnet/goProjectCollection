@@ -65,3 +65,12 @@ https://github.com/brocaar/loraserver.git
 
 22、Gateway 是一个基于HTTP协议的restful的API网关<br>
 https://git.oschina.net/fagongzi/gateway.git
+
+23、vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数<br>
+https://github.com/linclin/gopub
+
+24、MM-Wiki 一个轻量级的企业知识分享与团队协同软件<br>
+https://github.com/phachon/mm-wiki
+
+25、eaWeb-可视化的Web代理服务<br>
+https://github.com/TeaWeb/build
